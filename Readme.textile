@@ -4,4 +4,6 @@ My personal preferences and settings for the Sublime Text 2 editor.
 
 An a mac, put this in ~/Library/Application Support/Sublime Text 2/Packages/User
 
+On linux, put this in ~/.config/sublime-text-2/Packages/User
+
 Warning: replacing User will replace your own preferences.

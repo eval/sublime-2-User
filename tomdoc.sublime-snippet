@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[
+# ${1:Public: description}.
+#
+# ${2:options}	- ${3:description for options (default: \{\})
+#					:option1 	-	description for option1
+#					:option2 	- 	description for option2
+#}
+#
+# Examples
+#
+#   multiplex('Tom',4)
+#   # => 'TomTomTomTom'
+#
+# Returns ${5:the duplicated String}.
+# ${6:Raises Errno::ENOENT if the file cannot be found.}
+]]></content>
+	<tabTrigger>tomdoc</tabTrigger>
+</snippet>
