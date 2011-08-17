@@ -16,4 +16,5 @@
 # ${6:Raises Errno::ENOENT if the file cannot be found.}
 ]]></content>
 	<tabTrigger>tomdoc</tabTrigger>
+	<scope>source.ruby</scope>
 </snippet>
